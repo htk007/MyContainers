@@ -5,5 +5,5 @@ Container quiz app
 - Firebase entegration DONE
 - Firebase data fetch DONE
 - Data using FAIL
--JSON data usage DONE
--Authentication mechanism FAIL
+- JSON data usage DONE
+- Authentication mechanism FAIL
