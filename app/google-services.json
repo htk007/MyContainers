@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "81724861927",
+    "firebase_url": "https://evrekaquiz.firebaseio.com",
+    "project_id": "evrekaquiz",
+    "storage_bucket": "evrekaquiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81724861927:android:27301ebe742173153ea142",
+        "android_client_info": {
+          "package_name": "com.hasankaya.travelbookheka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81724861927-krbmlp5l9kggv1algnrhk4l3qnmrkbri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6-jp9m-cx9espb4u7Yk_oVWHlojD9z3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81724861927-krbmlp5l9kggv1algnrhk4l3qnmrkbri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
